@@ -1,0 +1,4 @@
+﻿  Project.cpp
+D:\University\Semester#2\OOP\Project\Project\Project\Project.cpp(37): warning C4715: 'checkName': not all control paths return a value
+D:\University\Semester#2\OOP\Project\Project\Project\Project.cpp(67): warning C4715: 'idCheck': not all control paths return a value
+  Project.vcxproj -> D:\University\Semester#2\OOP\Project\Project\Debug\Project.exe
